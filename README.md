@@ -48,5 +48,21 @@
         3- Console applicacion.
         4- C o C#
         5- Colocar nombre al proyecto 
-# 
+
+# OPERACIONES ARITMETICAS
+    *SUMA +
+    *RESTA -
+    *MULTIPLICACION *
+    *DIVISION /
+    *MODULO % "Obtiene el resto de una division entre dos numeros" ejemplo 2%5=1    modulo es 1
+
+# OPERADORES DE ASIGNACION
+    += "a+=5  | a= a+5"
+    -= "a-=5  | a= a-5"
+    *=
+    /=
+    %=
+    a++ "a = a + 1 "
+    a-- "a = a - 1 "
+#
 Curso de Programacion Estructurada
