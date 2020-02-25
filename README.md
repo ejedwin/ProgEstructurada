@@ -11,6 +11,14 @@
         - scanf("%i", & entero);
     * Imprimir
         - pirntf("mesaje %i", nombreVaribale);
+    * Termino de una linea de comadno   ;
+    * Condicionales 
+        - if (condicion)
+        {
+            
+        }
+        - else if (condicion)
+        -else (condicion)
 
 # FASES
     * Analisis
@@ -64,5 +72,20 @@
     %=
     a++ "a = a + 1 "
     a-- "a = a - 1 "
-#
+# CONDICIONEALES IF y ELSE IF
+
+    * if (valA == valB)
+    {
+        printf("imprime el resultado");
+    }
+
+    else if (valB == valC)
+    {
+        printf("cumple con la condicion");
+    }
+
+    else 
+    {
+        printf("No cumple con ninguna condicion");
+    }
 Curso de Programacion Estructurada
