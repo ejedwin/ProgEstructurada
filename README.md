@@ -1,6 +1,6 @@
 # ProgEstructurada
 
-# TENER EN CUENTA 0000JOOOO
+# TENER EN CUENTA ---0JO---
     * Comentatio //
     * Salto de linea \n
     * para imprimir por consola
@@ -48,3 +48,4 @@
         3- Console applicacion.
         4- C o C#
         5- Colocar nombre al proyecto 
+# 
