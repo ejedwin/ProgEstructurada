@@ -19,7 +19,6 @@ int main()
         printf("\n Elegiste el numero 2 \n");
         break;
 
-
         case 3:
         printf("\n Elegiste el numero 3 \n");
         break;
@@ -29,8 +28,5 @@ int main()
         printf("\n Numero incorrectov \n");
         break;
     }
-
-
-
     return 0;
 }
