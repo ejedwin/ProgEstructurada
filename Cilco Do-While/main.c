@@ -17,7 +17,7 @@ int main()
         printf("Ingresa una letra: \n\n");
 
         //guardamos la varibale
-        scanf("%c", &valor);
+        scanf(" %c", &valor);
     }
     //verificamos que se cumpla la condicion
     while(valor != respuesta);
